@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bilal.cv.base",
+    "sha256_cert_fingerprints":
+    ["9D:CB:7E:26:E7:50:13:6C:EF:30:36:58:6F:CC:76:6E:C8:1C:56:DC:6E:DD:D8:91:EC:F9:A6:C8:FB:75:A2:E8"]
+  }
+}]
