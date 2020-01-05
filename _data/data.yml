@@ -86,20 +86,18 @@ projects:
     assignments:
       - title: Mr. Tiffin
         link: "https://play.google.com/store/apps/details?id=com.fast.tiffan_project"
-        tagline: "We created this application as a part of our semester project of Software and Mobile Devices (CS-440),
-                  and deployed the application on Google Play Store. This is an application for an online food ordering
-                  service "Mr. Tiffin". It offers all the food ordering on the application through firebase. The manager
-                  gets the notification and he can change the order status and the availability of items."
+        tagline: |
+         "We created this application as a part of our semester project of Software and Mobile Devices (CS-440), and deployed the application on Google Play Store. This is an application for an online food ordering service "Mr. Tiffin". It offers all the food ordering on the application through firebase. The manager gets the notification and he can change the order status and the availability of items."
 
       - title: Personal Resume
         link: "https://play.google.com/store/apps/details?id=com.bilal.cv"
-        tagline: "This is my resume as an android application deployed on the Google Play Store. It was my project in 
-                  the course Software and Mobile Devices (CS-440). It contains my education and work experience."
+        tagline: | 
+         "This is my resume as an android application deployed on the Google Play Store. It was my project in the course Software and Mobile Devices (CS-440). It contains my education and work experience."
 
       - title: Restaurant Management System
         link: "https://github.com/billztee7/Restaurant-Management-System"
-        tagline: "This is a Restaurant Management Website written in ASP.Net using the MVC architecture. It was 
-                  my project in the course of Database Systems(CS-203)."
+        tagline: | 
+         "This is a Restaurant Management Website written in ASP.Net using the MVC architecture. It was my project in the course of Database Systems(CS-203)."
 
 publications:
     title: Publications
