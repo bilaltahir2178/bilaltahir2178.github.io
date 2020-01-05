@@ -102,9 +102,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+     
     papers:
       - title: Climate Change and Medicine
         link: "https://medium.com/@billztee7/climate-change-and-medicine-4b84bd26221e"
