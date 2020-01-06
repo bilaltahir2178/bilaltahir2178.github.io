@@ -1,7 +1,3 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
@@ -14,8 +10,7 @@
 
 There are 6 color schemes available:
 
-| Blue | Turquoise | Green |
-| Berry | Orange | Ceramic |
+| Blue | Turquoise | Green | Berry | Orange | Ceramic |
 
 ## License
 
