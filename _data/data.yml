@@ -111,8 +111,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: C++
+        level: 90%
+
       - name: Python & Django
         level: 70%
+
+      - name: Android
+        level: 80%
 
       - name: Javascript & jQuery
         level: 72%
