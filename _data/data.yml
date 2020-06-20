@@ -82,10 +82,10 @@ projects:
         tagline: |
          "We created this application as a part of our semester project of Software and Mobile Devices (CS-440), and deployed the application on Google Play Store. This is an application for an online food ordering service "Mr. Tiffin". It offers all the food ordering on the application through firebase. The manager gets the notification and he can change the order status and the availability of items."
 
-      - title: Informaza
+      - title: informaza
         link: "https://play.google.com/store/apps/details?id=com.spring.informaza"
         tagline: |
-         "This application was created as a part of our semester project of Artificial Intelligence (CS-401), and deployed on Google Play Store. It is a chatbot about COVID-19, which is connected with DialogFlow. DialogFlow is a part of Google Cloud Suite which allows us to train our chatbot on a dataset or knowledge-base and deploy continuously on required platform like Facebook Messenger or an Android application."
+         "This application was created as a part of our semester project of Artificial Intelligence (CS-401), and deployed on Google Play Store. It is a chatbot about COVID-19, which is connected with Google Cloud Platform. DialogFlow is a part of Google Cloud Suite which allows us to train our chatbot on a dataset or knowledge-base and deploy continuously on required platforms like Facebook Messenger or an Android application."
 
       - title: Personal Resume
         link: "https://play.google.com/store/apps/details?id=com.bilal.cv"
@@ -96,6 +96,16 @@ projects:
         link: "https://github.com/billztee7/Restaurant-Management-System"
         tagline: | 
          "This is a Restaurant Management Website written in ASP.Net using the MVC architecture. It was my project in the course of Database Systems(CS-203)."
+
+      - title: Snake Xenzia
+        link: "https://github.com/billztee7/Snake"
+        tagline: | 
+         "This the clone of the famous game Snake Xenzia written in the Assembly Language. I made this game in my third semester as the semester project in the course of Computer Organization & Assembly Language(EL-213). I runs on NASM in the DosBox."
+
+      - title: Paint Brush
+        link: "https://github.com/billztee7/Paint-Brush"
+        tagline: | 
+         "This a basic paint application like the S Note in Samsung Note Series. It was written in C++. It was created to demonstrate the concepts of polymorphism and we used the library GP-142 for the graphics. It was my project in the course Computer Programming(CS-103) during the second semester."
 
 publications:
     title: Publications
