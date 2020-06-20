@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bilaltahir3636@gmail.com
     phone: +92 345 8181333
-    website: bluemath.xyz #do not add http://
+    #website: bluemath.xyz #do not add http://
     linkedin: billztee7
     github: billztee7
     gitlab:
@@ -81,6 +81,11 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.fast.tiffan_project"
         tagline: |
          "We created this application as a part of our semester project of Software and Mobile Devices (CS-440), and deployed the application on Google Play Store. This is an application for an online food ordering service "Mr. Tiffin". It offers all the food ordering on the application through firebase. The manager gets the notification and he can change the order status and the availability of items."
+
+      - title: Informaza
+        link: "https://play.google.com/store/apps/details?id=com.spring.informaza"
+        tagline: |
+         "This application was created as a part of our semester project of Artificial Intelligence (CS-401), and deployed on Google Play Store. It is a chatbot about COVID-19, which is connected with DialogFlow. DialogFlow is a part of Google Cloud Suite which allows us to train our chatbot on a dataset or knowledge-base and deploy continuously on required platform like Facebook Messenger or an Android application."
 
       - title: Personal Resume
         link: "https://play.google.com/store/apps/details?id=com.bilal.cv"
