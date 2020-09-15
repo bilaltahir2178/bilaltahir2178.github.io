@@ -71,6 +71,21 @@ projects:
       I have completed these projects during my industrial experience and
       my work during the university life.
     assignments:
+      - title: Flappy Bird - NEAT
+        link: "https://github.com/billztee7/FlappyBird-NEAT"
+        tagline: |
+         "An artificial intelligence agent to play flappy bird. This project is written in Python language and the genetic algorithm module NeuroEvolution of Augmenting Topologies (NEAT) was used to train the AI agent."
+
+      - title: Digit Recognizer
+        link: "https://www.kaggle.com/billztee7/hog-svm"
+        tagline: |
+         "Jupyter notebook to classify digits by the application of machine learning algorithms. The algorithms used are Histogram of Oriented Gradients and Support Vector Machine algorithm on the MNIST dataset. Deskewing was used to improve the accuracy of ML algorithms. As a result, the algorithm gave 98.9% accuracy."
+
+      - title: Timetable Generator
+        link: "https://github.com/billztee7/TimeTable-GeneticAlgorithm"
+        tagline: |
+         "Timetable generator by using student course registration data. A genetic algorithm in combination with local search was applied using C++ STL."
+
       - title: Mr. Tiffin
         link: "https://play.google.com/store/apps/details?id=com.fast.tiffan_project"
         tagline: |
@@ -90,6 +105,16 @@ projects:
         link: "https://github.com/billztee7/Restaurant-Management-System"
         tagline: | 
          "This is a Restaurant Management Website written in ASP.Net using the MVC architecture. It was my project in the course of Database Systems(CS-203)."
+
+      - title: Resource Manager
+        link: "https://github.com/billztee7/Resource-Manager"
+        tagline: |
+         "This is my assignment which is an implementation of a resource management software. This was an assignment in the course Data Structures(CS-201). It is implemented using STL of C++. Some data structures like Hash Map are custom implemented using STL. File handling is done, using the in-built functions of String class of C++.
+
+      - title: XML-Validator
+        link: "https://github.com/billztee7/XML-Validator"
+        tagline: |
+         "This is an XML validator application that checks the bracketing in an XML file and tells us about the place of error. The stack data structure in C++ language was used for this application."
 
       - title: Snake Xenzia
         link: "https://github.com/billztee7/Snake"
