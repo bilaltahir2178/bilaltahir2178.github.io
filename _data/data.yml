@@ -38,7 +38,7 @@ sidebar:
       - item: Book Reading
         link:
 
-      - item: Coding
+      - item: Meditation
         link:
 
 career-profile:
@@ -50,7 +50,7 @@ career-profile:
       an asset to your team.
 education:
     - degree: BSc in Computer Science
-      university: FAST - National University of Computer and Emerging Sciences 
+      university: FAST - National University of Computer and Emerging Sciences, Lahore 
       time: 2017 - 2021
       details: 
     - degree: FSc Pre - Engineering
@@ -58,16 +58,13 @@ education:
       time: 2015 - 2017
       details: |
 experiences:
-    - role: Junior Software Engineer
-      time: 2018 - 2019
-      company: CoalDev Inc, Lahore
+    - role: Software Quality Assurance Intern
+      time: 08/2020 - 09/2020
+      company: Afiniti, Lahore
       details: |
-        I have been working with my skill on oral communication with the
-        local and internationl clients. And I have been working with the
-        latest and most demanded technologies in the market which are  
-          - jQuery
-          - Django
-          - Angular
+        - Gained experience of software testing doing the Black Box testing.
+        - Successfuly completed personal targets by constantly testing and giving suggestions.
+        - Got to know about the importance of teamwork, collaboration and time managemnt in the industry.
 projects:
     title: Projects
     intro: >
