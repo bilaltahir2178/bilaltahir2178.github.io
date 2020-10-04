@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: bilaltahir3636@gmail.com
+    email: bilaltahir2178@gmail.com
     phone: +92 345 8181333
     #website: bluemath.xyz #do not add http://
-    linkedin: billztee7
-    github: billztee7
+    linkedin: bilaltahir2178
+    github: bilaltahir2178
     gitlab:
     bitbucket:
-    twitter: billztee7
+    twitter: 
     stack-overflow: 8597364/muhammad-bilal-tahir # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -72,17 +72,17 @@ projects:
       my work during the university life.
     assignments:
       - title: Flappy Bird - NEAT
-        link: "https://github.com/billztee7/FlappyBird-NEAT"
+        link: "https://github.com/bilaltahir2178/FlappyBird-NEAT"
         tagline: |
          "An artificial intelligence agent to play flappy bird. This project is written in Python language and the genetic algorithm module NeuroEvolution of Augmenting Topologies (NEAT) was used to train the AI agent."
 
       - title: Digit Recognizer
-        link: "https://www.kaggle.com/billztee7/hog-svm"
+        link: "https://www.kaggle.com/bilaltahir2178/hog-svm"
         tagline: |
          "Jupyter notebook to classify digits by the application of machine learning algorithms. The algorithms used are Histogram of Oriented Gradients and Support Vector Machine algorithm on the MNIST dataset. Deskewing was used to improve the accuracy of ML algorithms. As a result, the algorithm gave 98.9% accuracy."
 
       - title: Timetable Generator
-        link: "https://github.com/billztee7/TimeTable-GeneticAlgorithm"
+        link: "https://github.com/bilaltahir2178/TimeTable-GeneticAlgorithm"
         tagline: |
          "Timetable generator by using student course registration data. A genetic algorithm in combination with local search was applied using C++ STL."
 
@@ -102,27 +102,27 @@ projects:
          "This is my resume as an android application deployed on the Google Play Store. It was my project in the course Software and Mobile Devices (CS-440). It contains my education and work experience."
 
       - title: Restaurant Management System
-        link: "https://github.com/billztee7/Restaurant-Management-System"
+        link: "https://github.com/bilaltahir2178/Restaurant-Management-System"
         tagline: | 
          "This is a Restaurant Management Website written in ASP.Net using the MVC architecture. It was my project in the course of Database Systems(CS-203)."
 
       - title: Resource Manager
-        link: "https://github.com/billztee7/Resource-Manager"
+        link: "https://github.com/bilaltahir2178/Resource-Manager"
         tagline: |
          "This is my assignment which is an implementation of a resource management software. This was an assignment in the course Data Structures(CS-201). It is implemented using STL of C++. Some data structures like Hash Map are custom implemented using STL. File handling is done, using the in-built functions of String class of C++.
 
       - title: XML-Validator
-        link: "https://github.com/billztee7/XML-Validator"
+        link: "https://github.com/bilaltahir2178/XML-Validator"
         tagline: |
          "This is an XML validator application that checks the bracketing in an XML file and tells us about the place of error. The stack data structure in C++ language was used for this application."
 
       - title: Snake Xenzia
-        link: "https://github.com/billztee7/Snake"
+        link: "https://github.com/bilaltahir2178/Snake"
         tagline: | 
          "This the clone of the famous game Snake Xenzia written in the Assembly Language. I made this game in my third semester as the semester project in the course of Computer Organization & Assembly Language(EL-213). I runs on NASM in the DosBox."
 
       - title: Paint Brush
-        link: "https://github.com/billztee7/Paint-Brush"
+        link: "https://github.com/bilaltahir2178/Paint-Brush"
         tagline: | 
          "This a basic paint application like the S Note in Samsung Note Series. It was written in C++. It was created to demonstrate the concepts of polymorphism and we used the library GP-142 for the graphics. It was my project in the course Computer Programming(CS-103) during the second semester."
 
@@ -132,7 +132,7 @@ publications:
      
     papers:
       - title: Climate Change and Medicine
-        link: "https://medium.com/@billztee7/climate-change-and-medicine-4b84bd26221e"
+        link: "https://medium.com/@bilaltahir2178/climate-change-and-medicine-4b84bd26221e"
         authors: Tahir B. Muhammad
         conference: Medium, 2012
 
@@ -159,4 +159,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/billztee7" target="_blank" rel="nofollow">Muhammad Bilal Tahir</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/bilaltahir2178" target="_blank" rel="nofollow">Muhammad Bilal Tahir</a>
