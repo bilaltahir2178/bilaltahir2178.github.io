@@ -15,3 +15,7 @@ There are 6 color schemes available:
 ## License
 
 This project is licensed under the [MIT license](LICENSE.txt).
+
+## License
+
+You can check output at https://bilaltahir2178.github.io
